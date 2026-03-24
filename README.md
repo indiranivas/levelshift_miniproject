@@ -1,7 +1,7 @@
 # 🚀 AI-Powered Smart Hiring & Candidate Intelligence Platform
 
 ---
-
+![alt text](images/image.png)
 ## 📌 Overview
 
 This project is an end-to-end **AI/ML-powered recruitment system** designed to automate and enhance the hiring process.
