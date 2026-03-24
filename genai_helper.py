@@ -8,7 +8,7 @@ Handles rate limiting, model fallback, and missing API key gracefully.
 import os
 import time
 
-GOOGLE_API_KEY = "AIzaSyAr3B0MoB_dkhcaQU9bPApNE6_BCfswRxM"
+GOOGLE_API_KEY = #gemini api key
 
 # Models to try in order (most capable → most available)
 _MODELS = [
