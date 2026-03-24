@@ -1,0 +1,52 @@
+id,file_name,content,name,email,phone,education,experience_years,skills,projects,certifications,summary,job_code,created_at
+1,resume.pdf,"INDIRA NIVAS
+indiranivas123@gmail.com 9442535626 2005/04/11 Namakkal ,Tamil Nadu ,637410 
+INDIA github.com/indiranivas linkedin.com/in/indira-nivas 
+Professional Experience
+Intern - AI Powered Knowledge Graph for Medical Query Analysis 
+and Recommendations
+Icliniq
+•Built an AI-based medical recommendation system using BioBERT and Neo4j to 
+extract symptoms and predict diseases/specialists.2024 – 2025
+Coimbatore, India
+Intern - OCR and Database Management of medical reports
+Universiti Sains Islam Malaysia
+•Developed OCR modules to extract structured data from medical reports, improving 
+retrieval efficiency.2024/07
+Nilai, Malaysia
+Education
+B.Tech Artificial Intelligence and Data Science
+Coimbatore Institute of Technology
+CGPA : 7.432022 – 2026
+Coimbatore, India
+Skills
+Programming
+ Python
+Data ScienceData Structures and Algorithms
+Visualization
+Matplotlib, Tableau & Power BIDBMS
+ MySQL
+Awards
+Googlethon Hackathon
+Google Developer Student Club of CIT
+""I secured the first place, with an IoT-based system that sends distress signals from 
+vehicles to nearby cars in areas without cellular coverage, enhancing road safety and 
+emergency response during accidents.""2024/05/24
+Projects
+AI-Powered Medical Recommendation System Using  Knowledge Graphs
+Developed an AI-driven medical recommendation system using BioBERT for symptom extraction and Neo4j 
+knowledge graphs for disease and specialist prediction, improving accuracy by 30% across 1000+ disease-
+symptom relationships.
+Speed limit automation
+""Increased safety compliance by 25% for vehicles operating at variable speeds by designing and implementing a 
+Vehicle Speed Control System using an FR module in an Internet of Things project.""
+Vehicle crash detection
+Designed an emergency alert system enabling cars to broadcast distress signals, reducing accident response time 
+by 40%.
+Courses
+NPTEL
+Business Intelligance and Analytics
+Score : 81%
+Interests
+Passionate About Technologies 
+& Performance TrendsInterest in East Asian Comics",,,,,,"compliance, data science, github, matplotlib, mysql, power bi, python, tableau",,,,A_001,2026-03-24T16:02:50.559133

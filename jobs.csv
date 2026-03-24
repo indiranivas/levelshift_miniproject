@@ -1,0 +1,310 @@
+id,job_code,job,job_description,created_at
+1,A_001,AIML,"We are looking for a skilled Python Developer to join our team and build 
+high-quality software solutions. The ideal candidate should have strong 
+programming skills, experience in backend development, and the ability 
+to work with databases and APIs.
+
+Responsibilities:
+- Develop, test, and maintain Python-based applications
+- Write clean, efficient, and reusable code
+- Work with databases and perform data processing tasks
+- Design and develop REST APIs and backend services
+- Debug and resolve software issues
+- Collaborate with team members to deliver high-quality solutions
+- Ensure application performance and scalability
+
+Required Skills:
+- Strong proficiency in Python programming
+- Good understanding of data structures and algorithms
+- Experience with SQL and database management
+- Familiarity with libraries such as pandas and numpy
+- Experience in API development (Flask / FastAPI)
+- Knowledge of version control systems like Git
+
+Preferred Skills:
+- Experience with web frameworks like Django or Flask
+- Familiarity with cloud platforms (AWS, Azure, GCP)
+- Understanding of software development lifecycle
+- Experience with Docker or deployment tools
+
+Experience:
+- 2+ years of experience in Python development
+- Experience working on real-world projects
+
+Education:
+- Bachelor’s degree in Computer Science, IT, or related field
+",2026-03-24T15:21:16.839252
+2,A_002,AIML,"
+We are seeking a highly skilled Python Developer / Machine Learning Engineer 
+to join our dynamic team. The ideal candidate should have strong experience 
+in software development, data analysis, and machine learning.
+
+Responsibilities:
+- Develop, test, and deploy scalable Python applications
+- Build and optimize machine learning models
+- Perform data preprocessing, feature engineering, and model evaluation
+- Work with large datasets and perform data analysis using pandas and numpy
+- Collaborate with cross-functional teams to understand business requirements
+- Design and implement APIs and backend services
+- Ensure code quality, performance, and scalability
+
+Required Skills:
+- Strong proficiency in Python programming
+- Experience with machine learning algorithms and frameworks
+- Hands-on experience with scikit-learn, TensorFlow, or PyTorch
+- Knowledge of data analysis and visualization tools
+- Experience with SQL and database management
+- Familiarity with data structures and algorithms
+
+Preferred Skills:
+- Experience with deep learning and NLP
+- Knowledge of cloud platforms (AWS, Azure, GCP)
+- Experience with Docker and deployment pipelines
+- Familiarity with big data tools like Spark
+
+Experience:
+- 2+ years of experience in Python development or machine learning
+- Experience in real-world projects involving data science or AI
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, or related field
+",2026-03-24T15:22:44.690316
+3,A_001,AIML1,"
+We are seeking a highly skilled Python Developer / Machine Learning Engineer 
+to join our dynamic team. The ideal candidate should have strong experience 
+in software development, data analysis, and machine learning.
+
+Responsibilities:
+- Develop, test, and deploy scalable Python applications
+- Build and optimize machine learning models
+- Perform data preprocessing, feature engineering, and model evaluation
+- Work with large datasets and perform data analysis using pandas and numpy
+- Collaborate with cross-functional teams to understand business requirements
+- Design and implement APIs and backend services
+- Ensure code quality, performance, and scalability
+
+Required Skills:
+- Strong proficiency in Python programming
+- Experience with machine learning algorithms and frameworks
+- Hands-on experience with scikit-learn, TensorFlow, or PyTorch
+- Knowledge of data analysis and visualization tools
+- Experience with SQL and database management
+- Familiarity with data structures and algorithms
+
+Preferred Skills:
+- Experience with deep learning and NLP
+- Knowledge of cloud platforms (AWS, Azure, GCP)
+- Experience with Docker and deployment pipelines
+- Familiarity with big data tools like Spark
+
+Experience:
+- 2+ years of experience in Python development or machine learning
+- Experience in real-world projects involving data science or AI
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, or related field
+",2026-03-24T15:22:55.412795
+4,A_002,AIML1,"We are seeking a highly skilled Python Developer / Machine Learning Engineer 
+to join our dynamic team. The ideal candidate should have strong experience 
+in software development, data analysis, and machine learning.
+
+Responsibilities:
+- Develop, test, and deploy scalable Python applications
+- Build and optimize machine learning models
+- Perform data preprocessing, feature engineering, and model evaluation
+- Work with large datasets and perform data analysis using pandas and numpy
+- Collaborate with cross-functional teams to understand business requirements
+- Design and implement APIs and backend services
+- Ensure code quality, performance, and scalability
+
+Required Skills:
+- Strong proficiency in Python programming
+- Experience with machine learning algorithms and frameworks
+- Hands-on experience with scikit-learn, TensorFlow, or PyTorch
+- Knowledge of data analysis and visualization tools
+- Experience with SQL and database management
+- Familiarity with data structures and algorithms
+
+Preferred Skills:
+- Experience with deep learning and NLP
+- Knowledge of cloud platforms (AWS, Azure, GCP)
+- Experience with Docker and deployment pipelines
+- Familiarity with big data tools like Spark
+
+Experience:
+- 2+ years of experience in Python development or machine learning
+- Experience in real-world projects involving data science or AI
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, or related field
+",2026-03-24T15:23:30.250624
+5,A_003,AIML1,"We are seeking a highly skilled Python Developer / Machine Learning Engineer 
+to join our dynamic team. The ideal candidate should have strong experience 
+in software development, data analysis, and machine learning.
+
+Responsibilities:
+- Develop, test, and deploy scalable Python applications
+- Build and optimize machine learning models
+- Perform data preprocessing, feature engineering, and model evaluation
+- Work with large datasets and perform data analysis using pandas and numpy
+- Collaborate with cross-functional teams to understand business requirements
+- Design and implement APIs and backend services
+- Ensure code quality, performance, and scalability
+
+Required Skills:
+- Strong proficiency in Python programming
+- Experience with machine learning algorithms and frameworks
+- Hands-on experience with scikit-learn, TensorFlow, or PyTorch
+- Knowledge of data analysis and visualization tools
+- Experience with SQL and database management
+- Familiarity with data structures and algorithms
+
+Preferred Skills:
+- Experience with deep learning and NLP
+- Knowledge of cloud platforms (AWS, Azure, GCP)
+- Experience with Docker and deployment pipelines
+- Familiarity with big data tools like Spark
+
+Experience:
+- 2+ years of experience in Python development or machine learning
+- Experience in real-world projects involving data science or AI
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, or related field
+",2026-03-24T15:23:33.809768
+6,A_004,AIML1,"We are seeking a highly skilled Python Developer / Machine Learning Engineer 
+to join our dynamic team. The ideal candidate should have strong experience 
+in software development, data analysis, and machine learning.
+
+Responsibilities:
+- Develop, test, and deploy scalable Python applications
+- Build and optimize machine learning models
+- Perform data preprocessing, feature engineering, and model evaluation
+- Work with large datasets and perform data analysis using pandas and numpy
+- Collaborate with cross-functional teams to understand business requirements
+- Design and implement APIs and backend services
+- Ensure code quality, performance, and scalability
+
+Required Skills:
+- Strong proficiency in Python programming
+- Experience with machine learning algorithms and frameworks
+- Hands-on experience with scikit-learn, TensorFlow, or PyTorch
+- Knowledge of data analysis and visualization tools
+- Experience with SQL and database management
+- Familiarity with data structures and algorithms
+
+Preferred Skills:
+- Experience with deep learning and NLP
+- Knowledge of cloud platforms (AWS, Azure, GCP)
+- Experience with Docker and deployment pipelines
+- Familiarity with big data tools like Spark
+
+Experience:
+- 2+ years of experience in Python development or machine learning
+- Experience in real-world projects involving data science or AI
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, or related field
+",2026-03-24T15:23:34.892491
+7,A_005,AIML1,"We are seeking a highly skilled Python Developer / Machine Learning Engineer 
+to join our dynamic team. The ideal candidate should have strong experience 
+in software development, data analysis, and machine learning.
+
+Responsibilities:
+- Develop, test, and deploy scalable Python applications
+- Build and optimize machine learning models
+- Perform data preprocessing, feature engineering, and model evaluation
+- Work with large datasets and perform data analysis using pandas and numpy
+- Collaborate with cross-functional teams to understand business requirements
+- Design and implement APIs and backend services
+- Ensure code quality, performance, and scalability
+
+Required Skills:
+- Strong proficiency in Python programming
+- Experience with machine learning algorithms and frameworks
+- Hands-on experience with scikit-learn, TensorFlow, or PyTorch
+- Knowledge of data analysis and visualization tools
+- Experience with SQL and database management
+- Familiarity with data structures and algorithms
+
+Preferred Skills:
+- Experience with deep learning and NLP
+- Knowledge of cloud platforms (AWS, Azure, GCP)
+- Experience with Docker and deployment pipelines
+- Familiarity with big data tools like Spark
+
+Experience:
+- 2+ years of experience in Python development or machine learning
+- Experience in real-world projects involving data science or AI
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, or related field
+",2026-03-24T15:23:35.184409
+8,A_006,AIML1,"We are seeking a highly skilled Python Developer / Machine Learning Engineer 
+to join our dynamic team. The ideal candidate should have strong experience 
+in software development, data analysis, and machine learning.
+
+Responsibilities:
+- Develop, test, and deploy scalable Python applications
+- Build and optimize machine learning models
+- Perform data preprocessing, feature engineering, and model evaluation
+- Work with large datasets and perform data analysis using pandas and numpy
+- Collaborate with cross-functional teams to understand business requirements
+- Design and implement APIs and backend services
+- Ensure code quality, performance, and scalability
+
+Required Skills:
+- Strong proficiency in Python programming
+- Experience with machine learning algorithms and frameworks
+- Hands-on experience with scikit-learn, TensorFlow, or PyTorch
+- Knowledge of data analysis and visualization tools
+- Experience with SQL and database management
+- Familiarity with data structures and algorithms
+
+Preferred Skills:
+- Experience with deep learning and NLP
+- Knowledge of cloud platforms (AWS, Azure, GCP)
+- Experience with Docker and deployment pipelines
+- Familiarity with big data tools like Spark
+
+Experience:
+- 2+ years of experience in Python development or machine learning
+- Experience in real-world projects involving data science or AI
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, or related field
+",2026-03-24T15:23:35.629064
+9,A_006,AIML1,"We are seeking a highly skilled Python Developer / Machine Learning Engineer 
+to join our dynamic team. The ideal candidate should have strong experience 
+in software development, data analysis, and machine learning.
+
+Responsibilities:
+- Develop, test, and deploy scalable Python applications
+- Build and optimize machine learning models
+- Perform data preprocessing, feature engineering, and model evaluation
+- Work with large datasets and perform data analysis using pandas and numpy
+- Collaborate with cross-functional teams to understand business requirements
+- Design and implement APIs and backend services
+- Ensure code quality, performance, and scalability
+
+Required Skills:
+- Strong proficiency in Python programming
+- Experience with machine learning algorithms and frameworks
+- Hands-on experience with scikit-learn, TensorFlow, or PyTorch
+- Knowledge of data analysis and visualization tools
+- Experience with SQL and database management
+- Familiarity with data structures and algorithms
+
+Preferred Skills:
+- Experience with deep learning and NLP
+- Knowledge of cloud platforms (AWS, Azure, GCP)
+- Experience with Docker and deployment pipelines
+- Familiarity with big data tools like Spark
+
+Experience:
+- 2+ years of experience in Python development or machine learning
+- Experience in real-world projects involving data science or AI
+
+Education:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, or related field
+",2026-03-24T15:23:35.642855
