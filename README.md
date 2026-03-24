@@ -165,10 +165,10 @@ https://github.com/indiranivas/levelshift_miniproject/releases
 
 ---
 
-### 🔹 v0.0.1 — Initial Prototype
+### 🔹 v0.1.1 — Initial Prototype
 
 📌 **Release Link:**
-https://github.com/indiranivas/levelshift_miniproject/releases/tag/v0.0.1
+https://github.com/indiranivas/levelshift_miniproject/releases/tag/v0.1.1
 
 **Description:**
 The first working version with basic functionality.
